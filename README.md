@@ -18,13 +18,13 @@ These are my solutions to [Automate the Boring Stuff with Python](https://automa
  
 - Chapter 5 
 
-  - [DisplayInventory]()
+  - [DisplayInventory](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.5/displayInventory.py)
  
-  - [AddToInventory]()
+  - [AddToInventory](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.5/addToInventory.py)
 
 - Chapter 6 
 
-  - [Print_Table] ()
+  - [Print_Table](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.6/printTable.py)
 
 
 
