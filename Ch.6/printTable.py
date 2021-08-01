@@ -10,6 +10,7 @@ def print_table(table):
     col_widths = [0] * len(table)
 
     # compare each words in the table to find the max_length then store in the col_widths
+    for y in range(len(table)):
         for x in table[y]:
             col_widths[y] = max(col_widths[y], len(x))
     # print out the element and rjust wit the col_widths
