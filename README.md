@@ -18,8 +18,12 @@ These are my solutions to [Automate the Boring Stuff with Python](https://automa
  
 - Chapter 5 
 
-  - [displayInventory]()
+  - [DisplayInventory]()
  
-  - [addToInventory]()
+  - [AddToInventory]()
+
+- Chapter 6 
+
+  - [Print_Table] ()
 
   
