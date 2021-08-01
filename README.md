@@ -18,7 +18,6 @@ These are my solutions to [Automate the Boring Stuff with Python](https://automa
  
 - Chapter 5 
 
-<<<<<<< HEAD
   - [DisplayInventory]()
  
   - [AddToInventory]()
@@ -26,10 +25,7 @@ These are my solutions to [Automate the Boring Stuff with Python](https://automa
 - Chapter 6 
 
   - [Print_Table] ()
-=======
-  - [displayInventory](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.5/addToInventory.py)
- 
-  - [addToInventory](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.5/displayInventory.py)
->>>>>>> 88740af8284936a01d499013a2501a5ff56fd9e6
+
+
 
   
