@@ -16,3 +16,10 @@ These are my solutions to [Automate the Boring Stuff with Python](https://automa
  
   - [Grid](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.4/grid.py)
  
+- Chapter 5 
+
+  - [displayInventory]()
+ 
+  - [addToInventory]()
+
+  
