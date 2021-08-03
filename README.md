@@ -26,6 +26,8 @@ These are my solutions to [Automate the Boring Stuff with Python](https://automa
 
   - [Print_Table](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.6/printTable.py)
 
+  - [Zobmie_Dice_simulator]()
+
 
 
   
