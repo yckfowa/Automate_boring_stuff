@@ -28,6 +28,13 @@ These are my solutions to [Automate the Boring Stuff with Python](https://automa
 
   - [Zobmie_Dice_simulator](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.6/zombie_dice.py)
 
+- Chapter 7 
+
+  - [Date_detection](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.7/Date_detection.py)
+
+  - [Strong_password](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.7/Strong_password.py)
+  
+  - [Strip_regex](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.7/stripRegex.py)
 
 
   
