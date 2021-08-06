@@ -36,5 +36,11 @@ These are my solutions to [Automate the Boring Stuff with Python](https://automa
   
   - [Strip_regex](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.7/stripRegex.py)
 
+- Chapter 8 
+
+  - [Sandwich_maker](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.8/Sandwich_maker.py)
+
+  - [Muliplication](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.8/Muliplication.py)
+
 
   
