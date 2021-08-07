@@ -42,5 +42,12 @@ These are my solutions to [Automate the Boring Stuff with Python](https://automa
 
   - [Muliplication](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.8/Muliplication.py)
 
+- Chapter 9 
+
+  - [Madlibs](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.9/Madlibs/Madlibs.py)
+
+  - [Mcb](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.9/mcb/mcb.py)
+  
+  - [Reg_search](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.9/regex_search/re.search.py)
 
   
