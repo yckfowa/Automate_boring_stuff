@@ -50,4 +50,10 @@ These are my solutions to [Automate the Boring Stuff with Python](https://automa
   
   - [Reg_Search](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.9/regex_search/re.search.py)
 
+- Chapter 10 
+
+  - [Delete_Unneeded_Files](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.10/Delete%20unneeded%20files.py)
+
+  - [Selective_Copy](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.10/selective_copy.py)
+
   
