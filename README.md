@@ -54,6 +54,6 @@ These are my solutions to [Automate the Boring Stuff with Python](https://automa
 
   - [Delete_Unneeded_Files](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.10/Delete%20unneeded%20files.py)
 
-  -[Selective_Copy](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.10/selective_copy.py)
+  - [Selective_Copy](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.10/selective_copy.py)
 
   
