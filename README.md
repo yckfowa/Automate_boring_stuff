@@ -58,6 +58,6 @@ These are my solutions to [Automate the Boring Stuff with Python](https://automa
 
 - Chapter 11 
 
- - [Coin_Toss_Debugger](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.11/Coin_toss_debug.py)
+  - [Coin_Toss_Debugger](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.11/Coin_toss_debug.py)
 
   
