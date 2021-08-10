@@ -60,4 +60,17 @@ These are my solutions to [Automate the Boring Stuff with Python](https://automa
 
   - [Coin_Toss_Debugger](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.11/Coin_toss_debug.py)
 
+- Chapter 12 
+
+  - [Commandline_Emailer](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.12/commandline_emailer.py)
+
+  - [Img_site_Downloader](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.12/img_site_downloader.py)
+  
+  - [2048_Game](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.12/2048_game.py)
+
+  -[Link_Verification](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.12/link%20verification.py)
+
+
+
+
   
