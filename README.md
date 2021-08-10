@@ -68,7 +68,7 @@ These are my solutions to [Automate the Boring Stuff with Python](https://automa
   
   - [2048_Game](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.12/2048_game.py)
 
-  -[Link_Verification](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.12/link%20verification.py)
+  - [Link_Verification](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.12/link%20verification.py)
 
 
 
