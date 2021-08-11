@@ -70,6 +70,18 @@ These are my solutions to [Automate the Boring Stuff with Python](https://automa
 
   - [Link_Verification](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.12/link%20verification.py)
 
+- Chapter 13 
+
+  - [Multiplication_Table](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.13/multiplication_table.py)
+
+  - [Blank_Row_Insert](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.13/blank_row_insert.py)
+  
+  - [Spreadsheet_Cell_Inverter](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.13/spreadsheet_cell_inverter.py)
+
+  - [Txt To SpreadSheet](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.13/text_to_spreadsheet.py)
+
+  - [SpreadSheet_To_Txt](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.13/spreadsheet_to_text.py)
+
 
 
 
