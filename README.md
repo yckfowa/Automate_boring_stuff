@@ -78,7 +78,7 @@ These are my solutions to [Automate the Boring Stuff with Python](https://automa
   
   - [Spreadsheet_Cell_Inverter](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.13/spreadsheet_cell_inverter.py)
 
-  - [Txt To SpreadSheet](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.13/text_to_spreadsheet.py)
+  - [Txt_To_SpreadSheet](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.13/text_to_spreadsheet.py)
 
   - [SpreadSheet_To_Txt](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.13/spreadsheet_to_text.py)
 
