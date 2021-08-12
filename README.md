@@ -82,6 +82,14 @@ These are my solutions to [Automate the Boring Stuff with Python](https://automa
 
   - [SpreadSheet_To_Txt](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.13/spreadsheet_to_text.py)
 
+- Chapter 15  
+
+  - [Password_Break](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.15/password_break.py)
+
+  - [PDF_Decrypt](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.15/pdf_decrypt.py)
+  
+  - [PDF_Encrypt](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.15/pdf_encrypt.py)
+
 
 
 
