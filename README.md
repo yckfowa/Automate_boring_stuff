@@ -1,7 +1,5 @@
 # Automate_boring_stuff
 
-Currently working... 
-
 These are my solutions to [Automate the Boring Stuff with Python](https://automatetheboringstuff.com) 
 
 - Chaper 3 
@@ -90,6 +88,21 @@ These are my solutions to [Automate the Boring Stuff with Python](https://automa
   
   - [PDF_Encrypt](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.15/pdf_encrypt.py)
 
+- Chapter 16 
+
+  - [Excel_To_CSV](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.16/Excel_to_csv.py)
+
+- Chapter 17 
+
+  - [Prettified_StopWatch](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.17/prettified_stopwatch.py)
+
+- Chapter 18 
+
+  - [Search_Photos_In_Directory](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.19/search_photo_in_directory.py)
+
+- Chapter 20 
+
+  - [Looking_Busy](https://github.com/yckfowa/Automate_boring_stuff/blob/main/Ch.20/looking_busy.py)
 
 
 
